@@ -4,8 +4,7 @@ import bson
 from pymongo import MongoClient
 
 # Replace these with your MongoDB Atlas connection string and database name
-atlas_uri = ("mongodb+srv://chernovsib:bmHBSPfv0uWHAMuX@cluster0.ewhkpvr.mongodb.net/?retryWrites=true&w=majority"
-             "&appName=AtlasApp")
+atlas_uri = ("access_string")
 
 local_bson_file = "sample_collection.bson"
 
