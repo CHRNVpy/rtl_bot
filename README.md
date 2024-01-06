@@ -53,4 +53,4 @@ To use this bot, follow these steps:
 
 ## Author
 
-[chrnv]
+[chrnv](https://t.me/chrnv_dev)
